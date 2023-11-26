@@ -75,7 +75,7 @@ def display_huffman_tree(root):
     return "\n".join(result)
 
 
-# Press the green button in the gutter to run the script.
+
 if __name__ == '__main__':
     # Example usage
     exp_text = "abbcccddddeeeee"
